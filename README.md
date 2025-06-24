@@ -1,8 +1,8 @@
-# 🛒 Tienda-Virtual - Sistema de Compras en JavaFX
+# 🛒 Tienda-Virtual - Sistema de Compras en JFrame
 
 ## 📌 Descripción General
 
-Este proyecto es un sistema de compras desarrollado en **JavaFX**, el cual simula un entorno de tienda virtual con funcionalidades tanto para usuarios como administradores. El sistema incluye inicio de sesión, manejo de productos, historial de compras, lista de deseos y un carrito de compras interactivo.
+Este proyecto es un sistema de compras desarrollado en **JFrame**, el cual simula un entorno de tienda virtual con funcionalidades tanto para usuarios como administradores. El sistema incluye inicio de sesión, manejo de productos, historial de compras, lista de deseos y un carrito de compras interactivo.
 
 ---
 
@@ -28,19 +28,9 @@ Este proyecto es un sistema de compras desarrollado en **JavaFX**, el cual simul
 
 ---
 
-
----
-
-## 📄 Manual de Usuario
-
-El manual de usuario se encuentra en el archivo pdf "ManualUsuario", donde se explican paso a paso las funcionalidades del sistema con capturas de pantalla.
-
----
-
 ## 🌐 Requisitos del Sistema
 
-- Java JDK 17 o superior
-- JavaFX SDK (añadido al proyecto)
+- Java JDK 8 o superior
 - IDE recomendado: NetBeans
 
 ---
@@ -51,7 +41,7 @@ El manual de usuario se encuentra en el archivo pdf "ManualUsuario", donde se ex
 
 2. Abre el proyecto en tu IDE.
 
-3. Configura el SDK de Java y JavaFX.
+3. Configura el SDK de Java
 
 4. Ejecuta la clase Main.java.
 
